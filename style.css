@@ -4,18 +4,14 @@ background: cover;
 background-repeat: no-repeat;
   font-size: 15pt;
   background-color: steelblue;
-  margin:0;
-  height:484px;
+  margin-right:0;
+  height:384px;
  text-align:center;
    color: whitesmoke;
    padding-top: 10px;
-   padding-left: 10px;
+   padding-left: 20px;
    padding-right:15px;
 }
-
-   #projeto{
-     
-   }
 
 .form{
     border-radius: 5px;
