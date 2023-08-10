@@ -1,14 +1,12 @@
 html,body{
-	cartimg 
-        margin: auto;
-        width: 55%
 background-image:url("fundo.jpg");
 background: cover;
 background-repeat: no-repeat;
   font-size: 15pt;
   background-color: steelblue;
-  margin:0 ;
+  margin:auto;
   height:300%;
+   width: 55%;
  text-align:center;
    color: whitesmoke;
      padding:90px;
