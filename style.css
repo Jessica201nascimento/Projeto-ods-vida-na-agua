@@ -69,7 +69,11 @@ background-repeat: no-repeat;
 			margin-top: 50px;
 		}
 
-  
+  #body
+div.cartimg {
+        margin: auto;
+        width: 55%
+}	
  
  
 
