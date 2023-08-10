@@ -1,15 +1,15 @@
 html,body{
 background-image:url("fundo.jpg");
-background: cover;
+background: cover 100%;
 background-repeat: no-repeat;
   font-size: 15pt;
   background-color: steelblue;
   margin:auto;
   height:300%;
    width: 100%;
+    margin:0;
  text-align:center;
    color: whitesmoke;
-     padding:90px;
    padding-top: 10px;
    padding-left: 10px;
    padding-right:15px;
