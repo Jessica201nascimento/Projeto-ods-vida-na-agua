@@ -4,12 +4,13 @@ background: cover;
 background-repeat: no-repeat;
   font-size: 15pt;
   background-color: steelblue;
-  margin:1px 10px 20px 10px ;
+  margin:0 ;
   height:594px;
  text-align:center;
    color: whitesmoke;
+     padding:90px;
    padding-top: 10px;
-   padding-left: 10px 10px 20px 20px;
+   padding-left: 10px;
    padding-right:15px;
 }
 
