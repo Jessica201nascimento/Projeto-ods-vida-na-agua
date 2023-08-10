@@ -1,4 +1,7 @@
 html,body{
+	cartimg 
+        margin: auto;
+        width: 55%
 background-image:url("fundo.jpg");
 background: cover;
 background-repeat: no-repeat;
@@ -69,11 +72,7 @@ background-repeat: no-repeat;
 			margin-top: 50px;
 		}
 
-  #body
-div.cartimg {
-        margin: auto;
-        width: 55%
-}	
+
  
  
 
