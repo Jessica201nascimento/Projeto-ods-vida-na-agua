@@ -61,13 +61,20 @@ background-repeat: no-repeat;
       }
   
   
-    footer {
-			background-color: violet;
-			color: #fff;
-			padding: 10px;
-			text-align: center;
-			margin-top: 40px;
-		}
+    footer{
+	background-color: violet;
+	color: #fff;
+	text-align: center;
+	padding-bottom: 9px;
+	text-align: center;
+	padding-top: 0;
+      text-shadow: 3px 3px 3px violet;
+      letter-spacing: 2px; /*para distanciar as letras*/
+     margin-top: 0;
+     margin-bottom: 0;
+     font-size: 11px;
+    }
+		
 
 
  
